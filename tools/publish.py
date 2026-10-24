@@ -94,12 +94,12 @@ def build(html):
     ver = str(int(time.time()))
     meta = f"""<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Esmeralda &amp; André — 5 de diciembre</title>
-<meta name="description" content="Nos casamos el 5 de diciembre de 2026 en Arequipa. Abre nuestra invitación y confirma tu asistencia.">
+<title>Esmeralda &amp; André — 4 de diciembre</title>
+<meta name="description" content="Nos casamos el 4 de diciembre de 2026 en Arequipa. Abre nuestra invitación y confirma tu asistencia.">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Esmeralda &amp; André">
 <meta property="og:title" content="Esmeralda &amp; André · Nos casamos">
-<meta property="og:description" content="5 de diciembre de 2026 · Arequipa, Perú. Toca para abrir la invitación ✨">
+<meta property="og:description" content="4 de diciembre de 2026 · Arequipa, Perú. Toca para abrir la invitación ✨">
 <meta property="og:url" content="{SITE}">
 <meta property="og:image" content="{SITE}og.jpg?v={ver}">
 <meta property="og:image:secure_url" content="{SITE}og.jpg?v={ver}">
